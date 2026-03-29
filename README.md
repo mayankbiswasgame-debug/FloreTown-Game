@@ -57,4 +57,4 @@ FloreTown Event 🚀
 Mayank Biswas
 
 ## 🎥 Demo
-👉 https://https://youtu.be/32nmWzdVQOY
+👉 https://youtube.com/youtu.be/32nmWzdVQOY
