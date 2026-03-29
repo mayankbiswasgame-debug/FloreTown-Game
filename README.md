@@ -51,4 +51,4 @@ FloreTown Event 🚀
 ✨ Demonstrates real-world Java application development
 
 ## 📸 Preview
-![Game UI](screenshot.png)
+![Game UI](Screenshot 2026-03-30 041727.png)
