@@ -52,3 +52,9 @@ FloreTown Event 🚀
 
 ## 📸 Preview
 ![Game UI](Screenshot.png)
+
+## 👨‍💻 Author
+Mayank Biswas
+
+## 🎥 Demo
+👉 https://https://youtu.be/32nmWzdVQOY
